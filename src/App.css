@@ -1,0 +1,18 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper{
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(101, 204, 170, 0.499);
+}
+.header{
+  text-align: center;
+  margin: 20px 0;
+  color: rgb(3, 96, 3);
+  font-weight: 700;
+  font-family: cursive;
+}
